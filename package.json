@@ -1,0 +1,19 @@
+{
+  "name": "hello-express",
+  "version": "1.0.0",
+  "description": "UprightSDB22 MERN stack  hello express.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "dev": "nodemon"
+  },
+  "author": "Ryan Collins",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
