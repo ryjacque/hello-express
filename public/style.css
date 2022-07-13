@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+h1{
+    text-align: center;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    width: 90vw;
+    border: 1px solid black;
+    padding: 1vh;
+    margin-top: 2vh;
+}
